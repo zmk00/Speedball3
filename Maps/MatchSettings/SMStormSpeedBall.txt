@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+	<gameinfos>
+		<game_mode>0</game_mode>
+		<script_name>ShootMania\SpeedBall.Script.txt</script_name>
+		<title>SpeedBall@steeffeen</title>
+		<chat_time>10000</chat_time>
+		<finishtimeout>1</finishtimeout>
+		<allwarmupduration>0</allwarmupduration>
+		<disablerespawn>0</disablerespawn>
+		<forceshowallopponents>0</forceshowallopponents>
+	</gameinfos>
+
+	<hotseat>
+		<game_mode>0</game_mode>
+		<time_limit>300000</time_limit>
+		<rounds_count>5</rounds_count>
+	</hotseat>
+
+	<filter>
+		<is_lan>1</is_lan>
+		<is_internet>1</is_internet>
+		<is_solo>0</is_solo>
+		<is_hotseat>0</is_hotseat>
+		<sort_index>1000</sort_index>
+		<random_map_order>0</random_map_order>
+	</filter>
+
+	<startindex>0</startindex>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Rebound.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Slampost.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - The Cap.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Roc.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Forgotten.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Superflux.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Will be Blood.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Encounters.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Fastpost.Map.Gbx</file>
+	</map>
+	<map>
+		<file>ShootMania\SpeedBall\SpeedBall - Glaced.Map.Gbx</file>
+	</map>
+</playlist>

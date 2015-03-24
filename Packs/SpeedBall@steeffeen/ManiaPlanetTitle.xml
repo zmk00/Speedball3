@@ -1,0 +1,79 @@
+<maniaplanet_title version="2">
+	<id>SpeedBall@steeffeen</id>
+	<name>$i$s$04fSpeed$fffBall</name>
+	<desc>Two Teams fight for Control of the $&lt;$6f1Ball$&gt; in order to capture the Opponent's Goal Post.
+Grab the $&lt;$6f1Ball$&gt; and score at the Enemy's Pole.</desc>
+	<url>SpeedBall</url>
+	<download_url>http://files.steeffeen.com/packs/SpeedBall.Title.Pack.Gbx</download_url>
+	<title_version>2.6</title_version>
+	<allowed_client_title_version></allowed_client_title_version>
+	<base>SMStorm</base>
+	<player_model></player_model>
+	<gameplay_features>0</gameplay_features>
+	<scriptcloud_enabled>false</scriptcloud_enabled>
+	<packaging>
+		<image name="PackImage.png"/>
+		<logos name="Logos.png"/>
+		<collection>SportsMen</collection>
+		<sortindex>3</sortindex>
+		<station_manialink url=""/>
+		<station_noquickenter>false</station_noquickenter>
+		<boxcase_manialink url=""/>
+	</packaging>
+	<menu>
+		<background_img name=""/>
+		<background_replay name=""/>
+		<header name=""/>
+		<music name=""/>
+		<manialink url=""/>
+	</menu>
+	<menu_style name=""/>
+	<solo>
+		<mode name=""/>
+		<playlist name=""/>
+		<campaign folder=""/>
+		<medals>-1</medals>
+		<datapack name=""/>
+	</solo>
+	<network>
+		<mode name="Modes\ShootMania\SpeedBall.Script.txt"/>
+		<playlist name=""/>
+	</network>
+	<splitscreen>
+		<mode name=""/>
+		<playlist name=""/>
+	</splitscreen>
+	<editor>
+		<maptype name="MapTypes\ShootMania\SpeedBallTitleArena.Script.txt"/>
+		<simple_editor_map name=""/>
+	</editor>
+	<music folder=""/>
+	<mod name=""/>
+	<files>
+		<file name="Maps\MatchSettings\SMStormSpeedBall.txt" public="true" internal="false"/>
+		<file name="Scripts\MapTypes\ShootMania\SpeedBallArena.Script.txt" public="true" internal="false"/>
+	</files>
+	<folders>
+		<folder name="Blocks\Common\Others\" public="false" internal="false"/>
+		<folder name="Blocks\Common\SpeedBallSignsGiant\" public="false" internal="false"/>
+		<folder name="Blocks\Common\SpeedBallSignsNormal\" public="false" internal="false"/>
+		<folder name="Blocks\Common\Metal\MetalGiant\" public="false" internal="false"/>
+		<folder name="Blocks\Common\Metal\MetalNormal\" public="false" internal="false"/>
+		<folder name="Blocks\Common\cWoodGiant\" public="false" internal="false"/>
+		<folder name="Blocks\Common\cWoodNormal\" public="false" internal="false"/>
+		<folder name="Items\MetalKit\" public="false" internal="false"/>
+		<folder name="Items\SpeedBall\" public="false" internal="true"/>
+		<folder name="Media\Images\Common\" public="false" internal="true"/>
+		<folder name="Media\Images\SpeedBall\" public="false" internal="true"/>
+		<folder name="Skins\Storm\Mod\SpeedBall\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\1x3\Advertisement\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\1x3\Common\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\1x3\SpeedBall\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\3x1\Advertisement\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\3x1\Common\" public="false" internal="false"/>
+		<folder name="Skins\Storm\Screens\3x1\SpeedBall\" public="false" internal="false"/>
+		<folder name="Skins\Storm\TechSigns\SpeedBall\" public="false" internal="false"/>
+	</folders>
+	<limit_camera_fov>false</limit_camera_fov>
+	<unlock_features>0</unlock_features>
+</maniaplanet_title>

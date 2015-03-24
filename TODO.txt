@@ -2,19 +2,20 @@ Changlelog v3.0:
 
 	* Warmup2 implemented and improved.
 	* Warmup/Pause vote from the Manage Server menu (the current round will end in a draw).
-	* Confirmed instant heal for ball carrier is a nadeo bug (there is a way to go around it but it needs lot of work).
 	
 	* Default rounds limit changed to 7.
 	* Default option for friendly fire is now enabled.
 	* Default warmup duration changed to 10 seconds (the countdown starting when everyone is ready).
-	* Default phase times changed to 3-3-2 (normal-reduction-instant, in minutes).
+	* Default phase times changed to 4-2-2 (normal-reduction-instant, in minutes).
 	
 	* Ballbug quick fix (Update 3d markers every frame, need to optimize that).
+	* Confirmed instant heal for ball carrier is a nadeo bug (there is a way to go around it but it needs lot of work).
 	
 
 TODO v3.0:
 
-	x Redo matchmaking to be up-to-date (see below).	
+	x Redo matchmaking to be up-to-date (see below), if we get time over for it.
+	x Show top cap procentage for each team in text.	
 
 	
 Matchmaking:
