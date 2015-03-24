@@ -10,11 +10,11 @@
 *         |_|   - The Shootmania game mode	   	   *
 *												   *		
 *												   *
-*	Author:		steeffeen						   *
-*	Contact:	steeffeen@team-devota.com		   *
+*	Author:			steeffeen					   *
+*	Contact:		steeffeen@team-devota.com	   *
 *												   *
-*	Maintainer: wellef							   *
-*	Contact:    fwoxstrom@gmail.com				   *
+*	Project leader: wellef						   *
+*	Contact:    	fwoxstrom@gmail.com			   *
 *												   *
 \**************************************************/
 
@@ -267,7 +267,7 @@ declare Real[Integer]			G_MaxCapturePercentage;	 // Maximum capture percentage r
 	// Load objects
 	ItemList_Begin();
 		//DEVchange
-		G_BallItemId = ItemList_Add("PickUpSpeedBall/Ball.Item.gbx");
+		G_BallItemId = ItemList_Add("SpeedBall/Ball.Item.gbx");
 	ItemList_End();
 
 	// Load actions
